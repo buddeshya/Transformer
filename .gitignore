@@ -1,0 +1,7 @@
+# Ignore torch_3.10 folder
+torch_3.10/
+*DS_Store
+*.pt
+*__pycache__
+
+
