@@ -7,6 +7,11 @@ These are the resources used for the project.
 4. https://poloclub.github.io/transformer-explainer/
 5. Code: Annotated -transformer https://nlp.seas.harvard.edu/annotated-transformer/
 
+Free Course:
+1. https://learn.deeplearning.ai/courses/attention-in-transformers-concepts-and-code-in-pytorch/lesson/han2t/introduction?courseName=attention-in-transformers-concepts-and-code-in-pytorch
+2. https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/nfshb/introduction
+
+
 
 ## Project Structure
 This project implements a Attention Is All You Need model for English to German translation from scratch, using PyTorch.
